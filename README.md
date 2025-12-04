@@ -39,6 +39,3 @@ Data visualization and trend interpretation.
 
 **Author: Midhunkrishna P N**
 Data Analyst | Healthcare & Data Science Enthusiast
-
-Midhunkrishna P N
-Data Analyst | Healthcare & Data Science Enthusiast
